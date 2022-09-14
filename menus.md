@@ -1,4 +1,4 @@
-## Candidates
+## Menus
 
 1. Tteokbokki
 2. Bearsoup
@@ -6,8 +6,8 @@
 
 ## New cadidates
 
-4. Kimchi soup
-5. soy sauce soup
+4. Steamed Kimchi
+5. Chung-gook-jang
 6. Troops soup
 7. Bibimbab
 
