@@ -1,4 +1,4 @@
-## Menus
+## Menu for Lunch
 
 1. Tteokbokki
 2. Bearsoup
@@ -7,7 +7,7 @@
 ## New cadidates
 
 4. Steamed Kimchi
-5. Chung-gook-jang
-6. Troops soup
+5. Steak
+6. Donut
 7. Bibimbab
 
